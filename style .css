@@ -1,0 +1,351 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Azeret Mono";
+}
+
+.section-1 {
+background-image: url(assets/Hero-bg.png);
+max-width: 1400px 100%;
+min-height: 652px;
+
+}
+
+.section1-div1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+.section1-div2 {
+    padding-top: 1%;
+}
+.section1-div3 {
+    height: 136px;
+    width: 998px;
+    font-size: 32px;
+    text-align: center;
+    
+}
+#section1-id1 {
+    padding-top: 35px;
+    width: 998px;
+    font-size: 16px;
+    text-align: center;
+}
+.section1-div4 {
+    margin-top: 140px;
+}
+.section1-div4 a{
+text-decoration: none;
+padding: 25px;
+background-color: black;
+color: white;
+font: bold;
+border-radius: 10px;
+}
+.section-2 {
+    margin: 100px 10%;
+    min-height: 652px;
+    background-color: #fafafa;
+    border-radius: 20px;
+    padding: 100px 0px;
+    
+}
+.section2-div1 {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    padding: 100px 50px ;
+
+}
+.section2-div2 {
+    height: 136px;
+    font-size: 32px;
+    text-align: center;
+    padding: 0px 40px;
+    
+}
+.section2-id1 {
+    padding-top: 35px;
+    font-size: 16px;
+    text-align: center;
+}
+#section2-id2 {
+    font-size: 30px;
+}
+#section2-id3 {
+    width: 50%;
+    padding-top: 20px;
+
+}
+.section2-div3 {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+
+    padding: 40px;
+    color: #555963;
+    background-image: linear-gradient(to right, white, #fafafa);
+}
+.section2-img1 {
+    height: 240px;
+    width: 280px;
+}
+.section2-div3 a {
+text-decoration: none;
+padding: 12px 18px ;
+background-color: white;
+color: #555963;
+font: bolder;
+border: 2px solid black;
+
+
+}
+.section2-btn1 {
+    padding-top: 60px;
+    font: bold;
+}
+.section2-div4 {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+  
+    padding: 40px;
+    color: #555963;
+    background-image: linear-gradient(to right, #fafafa,  white);
+}
+.section2-div4 a {
+    text-decoration: none;
+    padding: 12px 18px ;
+    background-color: white;
+    color: #555963;
+    font: bolder;
+    border: 2px solid black;
+    
+    
+}
+#section2-id4 {
+    font-size: 30px;
+}
+#section2-id5 {
+    width: 50%;
+    padding-top: 20px;
+
+}
+.section2-img2 {
+    height: 240px;
+    width: 280px;
+    padding-right: 40px;
+}
+.section2-btn2 {
+    padding-top: 60px;
+    font: bold;
+}
+#section2-id6 {
+    font-size: 30px;
+}
+#section2-id7 {
+    width: 50%;
+    padding-top: 20px;
+
+}
+.section2-div5 {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+
+    padding: 40px;
+    color: #555963;
+    background-image: linear-gradient(to right, white, #fafafa);
+}
+.section2-img3 {
+    height: 240px;
+    width: 280px;
+}
+.section2-div5 a {
+text-decoration: none;
+padding: 12px 18px ;
+background-color: white;
+color: #555963;
+font: bolder;
+border: 2px solid black;
+
+}
+.section2-btn3 {
+    padding-top: 60px;
+    font: bold;
+}
+.section-3 {
+    margin: 100px 10%;
+    min-height: 652px;
+    
+}
+.section2-div1 {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    padding: 0px 50px ;
+
+}
+.section3-div1 {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    padding: 0px 50px ;
+
+}
+.section3-div2 {
+    height: 136px;
+    width: 90%;
+    font-size: 32px;
+    text-align: center;
+    padding: 0px 40px;
+    
+}
+.section3-div3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    border: 2px solid #cecfd2;
+    padding: 70px 220px;
+    border-radius: 10px;
+}
+
+.section3-div3 iframe{
+    border: 2px solid #cecfd2;
+    border-radius: 20px;
+}
+
+.section-4 {
+    margin: 100px 5% 0px 5%;
+    min-height: 652px;
+    
+    
+}
+.section4-div1 {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    padding: 0px 50px ;
+
+}
+.section4-div2 {
+    height: 136px;
+    width: 90%;
+    font-size: 32px;
+    text-align: center;
+    padding: 0px 40px;
+    
+}
+.section4-div3 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    margin-top: 48px;
+
+}
+
+#card-1 {
+    background-color: #fff6f4;
+    padding: 30px;
+    border-radius: 20px;
+    
+    
+}
+#card-2 {
+    background-color: #f3f6fd;
+    padding: 30px;
+    border-radius: 20px;
+}
+#card-3 {
+    background-color: #fffdf3;
+    padding: 30px;
+    border-radius: 20px;
+}
+.section4-div3 a{
+    color: black;
+    
+}
+.card-padding {
+    padding: 20px 0px;
+}
+.section5-div0 {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    padding: 0px 50px ;
+    color: white;
+
+}
+.section-5 {
+    width: 1140px;
+    height: 314px;
+    background-image: url('assets/handshake.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+
+}
+#feedback {
+    width: 680px;
+    height: 60px;
+    margin-right: 10px;
+}
+.form1 {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    
+}
+.form1 button {
+    width: 100px;
+    height: 60px;
+}
+
+
+.section5-div1 p{
+    color: #c7bdbd;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 150px;
+    background-color: #f8f8f8;
+
+}
+.footer-link {
+    padding-left: 550px;
+}
+
